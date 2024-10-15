@@ -5,6 +5,7 @@
 For Tech Experts:
 - Use Jargon: Feel free to use technical terms and acronyms that they are familiar with.
 - Dive into Details: Provide deeper, more complex details. Experts will expect precise explanations with technical jargon, specific data, and in-depth discussions about algorithms, architectures, or coding methods.
+- 
 For Regular Folks:
 - Avoid Jargon: Avoid or limit the use of jargon, or clearly explain technical terms in a simple way. They may not be familiar with complex terminology, so breaking down concepts into layman’s terms is essential.
 - Provide Clear Explanations: Break down complex concepts into simpler terms. Simplify the information and avoid overwhelming technical details.
